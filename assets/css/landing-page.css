@@ -788,10 +788,11 @@ a:focus, a:active {
   background-color: #3ABE41;
 }
 .landing-page .carousel-indicators.carousel-indicators-orange li {
-  border-color: #FFA17F;
+  border-color: #767272;
+      
 }
 .landing-page .carousel-indicators.carousel-indicators-orange .active {
-  background-color: #FFA17F;
+  background-color: #767272;
 }
 .landing-page .carousel-indicators.carousel-indicators-red li {
   border-color: #E01724;
@@ -859,7 +860,7 @@ a:focus, a:active {
     margin-top: 10px;
 }
 .logo-container .logo img{
-    width: 100%;
+    width: 100px;
 }
 
 .landing-page1 .container{
@@ -1215,10 +1216,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
       color:#3ABE41;
     }
     .landing-page .section-features .card.card-orange{ 
-      border-color: #FAD9CD;
+      border-color: #000000;
     }
     .landing-page .section-features .card.card-orange .icon i{
-      color:#ff967f;
+      color:#E01724;
     }
      .landing-page .section-features .card.card-red{ 
       border-color: #FFBFC3;
